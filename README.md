@@ -6,6 +6,6 @@
 
 Dataset Link: http://bit.ly/w-data
 
-Tool : Goggle Collab
+Tool : Jupyter Notebook
 
 Language: Python
